@@ -1,0 +1,27 @@
+ table, td, th, tr {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 10px;
+ }
+ body{
+   background-color:aliceblue ;
+ }
+ a{
+  display: inline-block;
+  transition: .3s;
+  font-weight:bold;
+  text-decoration: none;
+ }
+ a:hover{
+  color: red;
+ }
+ a{
+  text-decoration: none;
+  padding: 0 5px;
+  transition: all .5s;
+ }
+  a{ 
+   color: black; 
+  } 
+
+ 
